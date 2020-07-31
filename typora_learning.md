@@ -75,13 +75,13 @@ Markdown有两种换行格式：
 
 示例：
 
-![image-20200730173744967](C:\Users\77147\AppData\Roaming\Typora\typora-user-images\image-20200730173744967.png)
+![a1Bza4.png](https://s1.ax1x.com/2020/07/31/a1Bza4.png)
 
 **2、段落后面使用一个空行隔开**
 
 示例：
 
-![image-20200730174106873](C:\Users\77147\AppData\Roaming\Typora\typora-user-images\image-20200730174106873.png)
+![a1BxZF.png](https://s1.ax1x.com/2020/07/31/a1BxZF.png)
 
 ***补充说明：在Typora直接按回车就可以换行，在源代码中是以第二种代码格式进行换行，采用第一个代码格式会显示和源代码模式中一样的格式。在传统的Markdown软件中需要以以上两种格式来换行，不然两行显示出来会出现在同一行。***
 
